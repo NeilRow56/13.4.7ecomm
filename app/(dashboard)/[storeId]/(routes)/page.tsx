@@ -1,5 +1,4 @@
 import prismadb from "@/lib/prismadb";
-import { FC } from "react";
 
 interface DashboardPageProps {
   params: { storeId: string };
